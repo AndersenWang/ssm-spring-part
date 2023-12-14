@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e15076-1c2a-4f48-b5ee-7842b9712194" name="Changes" comment="" />
+    <list default="true" id="61e15076-1c2a-4f48-b5ee-7842b9712194" name="Changes" comment="ssm-spring-part-end" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,6 +34,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2ZNRjCswpHRxUSaMoOvw01gWW7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +59,7 @@
     "Maven.spring-ioc-xml-01 [compile].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/programme/Java/ssm-spring-part/spring-java-practice-07/src/main/resources",
@@ -199,11 +204,24 @@
       <workItem from="1702424556463" duration="5460000" />
       <workItem from="1702463063009" duration="5116000" />
       <workItem from="1702482712967" duration="15000" />
-      <workItem from="1702539746385" duration="3599000" />
+      <workItem from="1702539746385" duration="3912000" />
     </task>
+    <task id="LOCAL-00001" summary="ssm-spring-part-end">
+      <option name="closed" value="true" />
+      <created>1702543668282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702543668282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssm-spring-part-end" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssm-spring-part-end" />
   </component>
 </project>
