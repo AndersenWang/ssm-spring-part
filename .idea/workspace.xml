@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e15076-1c2a-4f48-b5ee-7842b9712194" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\apache\apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="false" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZNRjCswpHRxUSaMoOvw01gWW7n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.JdbcTemplateTest.testForIoC.executor": "Run",
+    "JUnit.JdbcTemplateTest.testQueryAll.executor": "Run",
+    "JUnit.SpringAopTest.test.executor": "Run",
+    "JUnit.SpringIoCTest.getBeanFromIoC.executor": "Run",
+    "JUnit.SpringIoCTest.test (1).executor": "Run",
+    "JUnit.SpringIoCTest.test (2).executor": "Run",
+    "JUnit.SpringIoCTest.test.executor": "Run",
+    "JUnit.SpringIoCTest.testIoC01.executor": "Run",
+    "JUnit.SpringIoCTest.testIoC02.executor": "Run",
+    "JUnit.SpringIoCTest.testIoC03.executor": "Run",
+    "JUnit.SpringIoCTest.testIoC04.executor": "Run",
+    "JUnit.SpringIoCTest.test_04.executor": "Run",
+    "JUnit.SpringIoCTest.test_05.executor": "Run",
+    "JUnit.SpringIocTest.test.executor": "Run",
+    "JUnit.SpringTxTest.test.executor": "Run",
+    "Maven.spring-ioc-xml-01 [compile].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/programme/Java/ssm-spring-part/spring-java-practice-07/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\programme\Java\ssm-spring-part\spring-java-practice-07\src\main\resources" />
+      <recent name="E:\programme\Java\ssm-spring-part\spring-java-practice-07\src\main\java" />
+      <recent name="E:\programme\Java\ssm-spring-part\spring-ioc-java-06\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.andersen.ioc_03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringTxTest.test">
+    <configuration name="SpringAopTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-aop-annotation-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andersen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andersen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.andersen.test.SpringAopTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIoCTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-java-practice-07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andersen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andersen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.andersen.test.SpringIoCTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIoCTest.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-test-annotation-08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andersen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andersen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.andersen.test.SpringIoCTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringIocTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-ioc-java-06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andersen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andersen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.andersen.test.SpringIocTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTxTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-tx-annotation-12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andersen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.andersen.test" />
+      <option name="MAIN_CLASS_NAME" value="com.andersen.test.SpringTxTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringTxTest.test" />
+        <item itemvalue="JUnit.SpringAopTest.test" />
+        <item itemvalue="JUnit.SpringIoCTest.test (2)" />
+        <item itemvalue="JUnit.SpringIoCTest.test (1)" />
+        <item itemvalue="JUnit.SpringIocTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e15076-1c2a-4f48-b5ee-7842b9712194" name="Changes" comment="" />
+      <created>1702260683318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702260683318</updated>
+      <workItem from="1702260684332" duration="153000" />
+      <workItem from="1702260857256" duration="4582000" />
+      <workItem from="1702266770679" duration="1842000" />
+      <workItem from="1702272976000" duration="8121000" />
+      <workItem from="1702294739852" duration="853000" />
+      <workItem from="1702306640018" duration="2053000" />
+      <workItem from="1702343275134" duration="2847000" />
+      <workItem from="1702358723288" duration="648000" />
+      <workItem from="1702372956782" duration="4646000" />
+      <workItem from="1702391213580" duration="5933000" />
+      <workItem from="1702424556463" duration="5460000" />
+      <workItem from="1702463063009" duration="5116000" />
+      <workItem from="1702482712967" duration="15000" />
+      <workItem from="1702539746385" duration="3599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--  无参构造函数实例化组件  -->
+    <bean id="happyComponent1" class="com.andersen.ioc_01.HappyComponent" />
+
+    <bean id="happyComponent2" class="com.andersen.ioc_01.HappyComponent" />
+
+    <!--  静态工厂类  -->
+    <bean id="clientService" class="com.andersen.ioc_01.ClientService" factory-method="createInstance" />
+
+    <!--  非静态工厂  -->
+    <bean id="defaultServiceLocator" class="com.andersen.ioc_01.DefaultServiceLocator" />
+    <bean id="clientService2" factory-bean="defaultServiceLocator" factory-method="createClientServiceInstance" />
+
+</beans>
